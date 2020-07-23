@@ -235,9 +235,4 @@ xlwings==0.15.10
 xlwt==1.3.0
 zict==1.0.0
 zipp==0.6.0
-Flask>=1.1.1
-Jinja2>=2.10.3
-SQLAlchemy>=1.3.11
-gunicorn>=20.0.0
-flask_sqlalchemy>=2.0.0
 >>>>>>> 8104ad4a55bb1619f9a78b8dce423c87c39b511a
