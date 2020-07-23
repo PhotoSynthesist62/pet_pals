@@ -45,7 +45,7 @@ cytoolz==0.10.0
 dask==2.5.2
 decorator==4.4.0
 defusedxml==0.6.0
-setuptools==0.7.3
+distributed==2.5.2
 distro==1.5.0
 docutils==0.15.2
 entrypoints==0.3
@@ -235,4 +235,3 @@ xlwings==0.15.10
 xlwt==1.3.0
 zict==1.0.0
 zipp==0.6.0
->>>>>>> 8104ad4a55bb1619f9a78b8dce423c87c39b511a
